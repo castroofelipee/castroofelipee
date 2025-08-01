@@ -1,3 +1,5 @@
 Hey! I'm Felipe Castro.
 
-Software Engineer passionate about Python & TypeScript and flirting with Golang. Here i share some crazy things i do using code
+- I like Python and Golang 🐍 | 🐹
+- Passionate about OpenSource, I've contributed to projects that have an impact on my day-to-day life
+- Building @PinnLabs to revolutionize
