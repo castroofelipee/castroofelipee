@@ -1,2 +1,2 @@
 Hey! I'm Felipe Castro.  
-I like build stuff. Why? It's just for fun
+Building [PinnSystem](www.pinnsystem.com) and spend a lot of tokens
