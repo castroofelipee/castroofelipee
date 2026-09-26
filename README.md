@@ -1,5 +1,12 @@
-# Hey There 🖖🏻
+# Hey 🖖🏻
 
-I'm Felipe, from Brazil. I'm the founder and software engineer at [PinnSystem](https://www.pinnsystem.com) and [MarkForger](https://markforger.online). I'm also contributing to the open-source world at [PinnLabs](https://github.com/PinnLabs). I like to code in Python, TypeScript, and Golang.
+I'm Felipe, from Brazil 🇧🇷
 
-My interests are: books (reading at the moment: Divine Comedy), running and weight training, Tv shows (Big Bang Theory and HIMYM are the best)
+I build software since 2022. Like to create my own tools and softwares, like:
+- [MarkForger](https://markforger.online) ~ U$ 6,39/m
+- [PinnSystem](https://www.pinnsystem.com) ~ U$ 0,00/m
+- [fastapi-health-check](https://github.com/PinnLabs/fastapi-health-check) ~ Open source project
+- [Venvalid](https://github.com/PinnLabs/Venvalid) ~ Open source project
+- [fastapi-env-banner](https://github.com/PinnLabs/fastapi-env-banner) ~ Open source project
+
+You can find and contact me on my social media or via email
